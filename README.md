@@ -1,4 +1,4 @@
-# Hej! 💫 
+# *Hej!* 💫 
 ## Om mig
 Mitt namn är Julia, jag är utbildad laborant och har länge varit nyfiken på programmering och webbutveckling.
 
